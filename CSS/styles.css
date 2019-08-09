@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+color: green;
+text-align: center;
+font-style: italic;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  list-style: 40px;
+}
+.astronault{
+  width: 460px;
+  margin-left: 130px;
+}
